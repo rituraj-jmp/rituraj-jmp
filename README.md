@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Ritu Raj
 
-![](https://komarev.com/ghpvc/?username=rituraj-jmp&style=flat-square)
+![](https://komarev.com/ghpvc/?username=rituraj-jmp&abbreviated=true)
 ### Thank you for visiting my profile! 🎉
 <!--
 **rituraj-jmp/rituraj-jmp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
